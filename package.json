@@ -1,0 +1,19 @@
+{
+  "name": "googleleetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amesk3/LeetcodeSolutions.git"
+  },
+  "author": "Amy Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amesk3/LeetcodeSolutions/issues"
+  },
+  "homepage": "https://github.com/amesk3/LeetcodeSolutions#readme"
+}
